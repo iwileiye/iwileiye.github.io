@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwileiye.github.io/SJW/sitemap_index.txt
+Sitemap: https://iwileiye.github.io/ULr/sitemap_index.txt
+Sitemap: https://iwileiye.github.io/anf/sitemap_index.txt
+Sitemap: https://iwileiye.github.io/gKN/sitemap_index.txt
